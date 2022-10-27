@@ -6,7 +6,7 @@ const courses=require('./data/courses.json');
 
 app.use(cors());
 app.get('/', (req, res) => {
-  
+  res.send('Status:true')
 })
 
 app.get('/courses',(req,res)=>{
