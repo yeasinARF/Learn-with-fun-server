@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Computer Architecture",
+        "code": "BTCS301",
+        "id":"1",
+        "description":"Explain the organization of basic computer , its design and the design of control unit.Demonstrate the working of central processing unit and RISC and CISC Architecture.Describe the operations and language for the register transfer, micro operations and input- output organization.Understand the organization of memory and memory management hardware.Elaborate advanced concepts of computer architecture,Parallel Processing, interprocessor communication and synchronization.",
+        "img":"https://www.ucsmyeik.edu.mm/storage/2018/11/ca_3.jpg",
+        "price":"TK. 3,500"
+    }
+    ,
+    {
+        "name": "Operating System",
+        "code": "BTCS401",
+        "id": "2",
+        "description":"Understand the basics of operating systems like kernel, shell, types and views of operating systems Describe the various CPU scheduling algorithms and remove deadlocks. Explain various memory management techniques and concept of thrashing Use disk management and disk scheduling algorithms for better utilization of external memory.Recognize file system interface, protection and security mechanisms.Explain the various features of distributed OS like Unix,Linux, windows etc. ",
+        "img":"https://funxim.net/wp-content/uploads/2021/11/types-of-operating-system.jpg",
+        "price":"TK. 4,200"
+    }
+    ,
+    {
+        "name": "Discrete Mathematics",
+        "code": "BTCS402",
+        "id": "3",
+        "description":"Perform operations on various discrete mathematics such as sets, functions, relations, and sequences. Ability to solve problems using Counting techniques, Permutation and Combination, Recursion and generating functions. Apply algorithms and use of graphs and trees as tools to visualize and simplify Problems. Apply algorithms and use of graphs and trees as tools.",
+        "img":"https://i.ytimg.com/vi/p2b2Vb-cYCs/maxresdefault.jpg",
+        "price":"TK. 5,500"
+        
+    }
+    ,
+    {
+        "name": "Digital Circuits and Logic Design",
+        "code": "BTCS303",
+        "id": "4",
+        "description":"Apply the principles of number system, binary codes and Boolean algebra to minimize logic expressions Develop K-maps to minimize and optimize logic functions up to 5 variables. Acquire knowledge about various logic gates and logic families and analyze basic circuits of these families. Design various combinational and sequential circuits such as encoders , decoders and counters using multiplexers, and flip - flops Describe and compare various memory systems, shift registers and analog to digital and digital to analog conversion circuits.",
+        "img":"https://collegeacademy.in/images/ex-blogs/deld.jpg",
+        "price":"TK. 2,500"
+        
+    }
+    ,
+    {
+        "name": "Data Structures Algorithms",
+        "code": "BTCS304",
+        "id": "5",
+        "description":"Understand the concept of Dynamic memory management, data types, algorithms, Big O notation. Understand basic data structures such as arrays, linked lists, stacks and queues. Describe the hash function and concepts of collision and its resolution methods Solve problem involving graphs, trees and heaps Apply Algorithm for solving problems like sorting, searching, insertion and deletion of data.",
+        "img":"https://www.passionateinmarketing.com/wp-content/uploads/2021/10/maxresdefault-199.jpg",
+        "price":"TK. 6,500"
+    }
+    ,
+    {
+        "name": "Object Oriented Programming ",
+        "code": "BTCS305",
+        "id": "6",
+        "description":"Describe the procedural and object oriented paradigm with concepts of streams, classes, functions, data and objects. Understand dynamic memory management techniques using pointers, constructors, destructors, etc Describe the concept of function overloading, operator overloading, virtual functions and polymorphism. Classify inheritance with the understanding of early and late binding, usage of exception handling, generic programming. Demonstrate the use of various OOPs concepts with the help of programs.",
+        "img":"https://iou.ac/wp-content/uploads/2021/07/Object-Oriented-Programming-1.png",
+        "price":"TK. 10,000"
+    }
+    
+
+]
