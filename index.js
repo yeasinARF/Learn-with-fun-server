@@ -22,7 +22,4 @@ app.get('/courses/:id',(req,res)=>{
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
-<<<<<<< HEAD
-module.exports = app;
-=======
->>>>>>> ff0bc07d5e187821cf9e5eaf58cd64ec20b0eb45
+
